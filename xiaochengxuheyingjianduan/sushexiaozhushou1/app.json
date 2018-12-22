@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#0080FF",
+    "navigationBarTitleText": "你想上厕所吗？😏",
+    "navigationBarTextStyle":"white"
+  }
+}
